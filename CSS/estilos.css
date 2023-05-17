@@ -1,0 +1,14 @@
+
+
+
+
+.fondo{
+    background-image: url("../IMG/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: black;
+    font-size: 1.5rem;
+}
